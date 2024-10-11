@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-'''Modules of task-0
+'''Task 0's module.
 '''
+
 
 def add(a: float, b: float) -> float:
     '''Adds two floating-point numbers.
